@@ -27,4 +27,4 @@
 5. Acrescente o extrato de tomate, o ketchup e mexa bem. Volte o frango dourado para a panela, junte o conhaque e mexa para evaporar o álcool. Junte o molho inglês, o creme de leite e misture bem. Tempere com sal e pimenta e deixe cozinhar em fogo médio por cerca de 10 minutos, mexendo de vez em quando, até engrossar.
 6. Acrescente os cogumelos e deixe cozinhar por mais 2 minutos até ficarem levemente macios. Sirva a seguir, com [arroz](https://www.panelinha.com.br/receita/arroz-branco-para-4) e [batata-doce palha](https://www.panelinha.com.br/receita/Batata-doce-palha-assada).
 
-  
+  teste de comflito de match git hub
